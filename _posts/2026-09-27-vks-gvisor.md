@@ -12,4 +12,4 @@ This is the actual body text of my blog post. It has an empty line right above i
 Here you can write your technical notes, thoughts, and configurations. You can use standard Markdown features like:
 - Bullet points
 - **Bold text**
-- `inline_code_blocks`
+- 'inline_code_blocks'
